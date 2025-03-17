@@ -1,0 +1,7 @@
+fastapi==0.95.0
+uvicorn==0.22.0
+folium==0.14.0
+scikit-learn==1.1.2
+joblib==1.1.0
+pandas==1.5.3
+numpy==1.23.4
